@@ -4,6 +4,7 @@
 * [Second page](second.md)
 * [Third page](third.md)
 * [4th page](4th-page.md)
+* [Pricing](gan-xiang/pricing.md)
 
 ## 感想
 
