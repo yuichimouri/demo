@@ -3,7 +3,7 @@
 ### gitbook -&gt; github
 
 draftとして保存されるので、gitbook側のmergeボタンからマージするとgithubもgitbookの公開URLも反映される。  
-fileのアップロードによるページの追加も可能。
+fileのアップロードによるページの追加も可能。拡張子はmd。
 
 用意されているボタンは
 

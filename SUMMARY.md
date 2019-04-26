@@ -7,5 +7,5 @@
 
 ## 感想
 
-* [Gitbook側からの更新はgithubにどう反映されるのか](jurisdiction/gitbooktogithub.md)
+* [Gitbook側からの更新はgithubにどう反映されるのか](gan-xiang/gitbooktogithub.md)
 
