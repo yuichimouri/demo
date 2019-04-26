@@ -1,12 +1,26 @@
 # Gitbook側からの更新はgithubにどう反映されるのか
 
-SSIA
+### gitbook -&gt; github
 
-draftとして保存されるので、gitbook側のmergeボタンからマージするとgithubもgitbookの公開URLも反映される。  
-逆にgithubのほうでmdファイルを更新するとgitbookにすぐ反映される。  
-pull requestとかはなさげ。github側で管理を一括することは難しいか。
+ draftとして保存されるので、gitbook側のmergeボタンからマージするとgithubもgitbookの公開URLも反映される。  
+fileのアップロードも可能。
+
+用意されているボタンは
+
+* activity
+* view changes
+* archive
+* merge
+
+draftを残しておいて、管理者がmergeする体制になるか。
+
+### github -&gt; gitbook
+
+githubのほうでmdファイルを更新するとgitbookにすぐ反映される。
+
+通常の開発のようにブランチを切ればpull requestも可能。管理者がマージするように一元管理するならgitbookの編集は使わない方針のほうがよいかも。
+
+### そもそもsyncしないと
 
 githubのrepositoryと接続していないときには更新するだけですぐ反映される。
-
-View Changesとかはgit的な表示をしてくれるのでよき。
 
