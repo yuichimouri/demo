@@ -2,5 +2,6 @@
 
 * [Initial page](README.md)
 
-* [Second page](DEMO.md)
+* [Second page](SECOND.md)
 
+demo text
