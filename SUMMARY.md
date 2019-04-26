@@ -4,7 +4,7 @@
 * [Second page](second.md)
 * [Third page](third.md)
 
-## Group 1
+## 感想
 
-* [Gitbook側からの更新はgithubにどう反映されるのか](group-1/gitbookkaranohagithubnidousarerunoka.md)
+* [Gitbook側からの更新はgithubにどう反映されるのか](jurisdiction/gitbookkaranohagithubnidousarerunoka.md)
 
