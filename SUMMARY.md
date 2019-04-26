@@ -1,3 +1,5 @@
+SUMMARYが左サイドバー内のメニューを管理しているらしい
+
 # Table of contents
 
 * [Introduction](README.md)
