@@ -8,7 +8,7 @@ Gitbookのpricingを参照
 
 githubのほうで編集する分にはgithubの値段なので、基本githubからの更新にすればお金が無駄にかからないか。
 
-## spaceについて
+## Spaceについて
 
 1 privateは社内用wikiに、1 publicはコーポレートに用いることもできるか。
 
