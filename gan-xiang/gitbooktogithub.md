@@ -4,8 +4,12 @@
 
 draftとして保存されるので、gitbook側のmergeボタンからマージするとgithubもgitbookの公開URLも反映される。  
 fileのアップロードによるページの追加も可能。
+releaseでversion管理ができる模様。新しくreleaseをつくるとgithubのほうで新規ブランチにcommitされ、ブランチごとにバージョンが管理される。
+gitbookでmainに設定したverがgithubでmasterになるようにpull requestをだせる。
+ver管理においてはmainの切り替えを繰り返し行うとconflictが起こる。まじでver管理以外には使わない方がいいかも。
 
-用意されているボタンは
+編集のためにたくさんボタンがある。CMS的な管理が可。
+編集後のアクションとして用意されているボタンは
 
 * activity
 * view changes
