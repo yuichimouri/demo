@@ -2,7 +2,7 @@
 
 ### gitbook -&gt; github
 
- draftとして保存されるので、gitbook側のmergeボタンからマージするとgithubもgitbookの公開URLも反映される。  
+draftとして保存されるので、gitbook側のmergeボタンからマージするとgithubもgitbookの公開URLも反映される。  
 fileのアップロードも可能。
 
 用意されているボタンは
