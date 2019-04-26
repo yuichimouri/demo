@@ -1,4 +1,4 @@
 # Introduction
 
-このページはgithub管理下におかれないのか？
+READ MEがTOPページにくるらしい。
 
