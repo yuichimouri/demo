@@ -1,4 +1,5 @@
-SUMMARYが左サイドバー内のメニューを管理しているらしい
+SUMMARYが左サイドバー内のメニューを管理している。
+h1 Table of contents以下のアイテムが記述され、ここはコメントアウトしなくても表示されない。
 
 # Table of contents
 
