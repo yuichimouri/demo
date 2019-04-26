@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Introduction](README.md)
 * [Initial page](initial.md)
 * [Second page](second.md)
 * [Third page](third.md)
