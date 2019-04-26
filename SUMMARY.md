@@ -4,4 +4,5 @@
 
 * [Second page](SECOND.md)
 
-demo text
+* [Third page](THIRD.md)
+
