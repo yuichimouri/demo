@@ -1,8 +1,12 @@
 # Gitbook側からの更新はgithubにどう反映されるのか
 
-## SSIA
+SSIA
 
-> draftとして保存されるので、gitbook側のmergeボタンからマージすると反映される。
+draftとして保存されるので、gitbook側のmergeボタンからマージするとgithubもgitbookの公開URLも反映される。  
+逆にgithubのほうでmdファイルを更新するとgitbookにすぐ反映される。  
+pull requestとかはなさげ。github側で管理を一括することは難しいか。
 
+githubのrepositoryと接続していないときには更新するだけですぐ反映される。
 
+View Changesとかはgit的な表示をしてくれるのでよき。
 
